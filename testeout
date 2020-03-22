@@ -1,0 +1,56 @@
+Numarul de numere este 1000
+Numarul maxim din secventa generata este 20
+Timpul de sortare pentru bubble sort 0.16256427764892578
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru count sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru merge sort 0.005984067916870117
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru Quick sort 0.010973930358886719
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru radix sort 0.0009984970092773438
+Test : Vectorul a fost sortat, True
+Cea mai rapid timp pe acest exemplu este 0.0009984970092773438
+Timpul de sortare standard al v.sort() din Python : 0.0
+Numarul de numere este 100
+Numarul maxim din secventa generata este 398
+Timpul de sortare pentru bubble sort 0.0009968280792236328
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru count sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru merge sort 0.0009975433349609375
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru Quick sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru radix sort 0.0
+Test : Vectorul a fost sortat, True
+Cea mai rapid timp pe acest exemplu este 0.0
+Timpul de sortare standard al v.sort() din Python : 0.0
+Numarul de numere este 10
+Numarul maxim din secventa generata este 59
+Timpul de sortare pentru bubble sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru count sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru merge sort 0.0009984970092773438
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru Quick sort 5.0067901611328125e-05
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru radix sort 0.0
+Test : Vectorul a fost sortat, True
+Cea mai rapid timp pe acest exemplu este 0.0
+Timpul de sortare standard al v.sort() din Python : 0.0
+Numarul de numere este 9
+Numarul maxim din secventa generata este 5
+Timpul de sortare pentru bubble sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru count sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru merge sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru Quick sort 0.0
+Test : Vectorul a fost sortat, True
+Timpul de sortare pentru radix sort 0.0
+Test : Vectorul a fost sortat, True
+Cea mai rapid timp pe acest exemplu este 0.0
+Timpul de sortare standard al v.sort() din Python : 0.0
